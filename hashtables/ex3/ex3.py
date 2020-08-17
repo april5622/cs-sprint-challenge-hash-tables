@@ -2,9 +2,7 @@ def intersection(arrays):
     """
     YOUR CODE HERE
     """
-    # Your code here
-
-    return result
+    
 
 
 if __name__ == "__main__":
